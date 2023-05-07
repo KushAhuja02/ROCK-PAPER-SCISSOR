@@ -90,3 +90,19 @@ body {
 	background-color: #000000;
 	color: #FFFFFF;
 }
+
+body {
+    background-color: #f1f1f1;
+    color: #222;
+}
+.dark-mode {
+    background-color: #222;
+    color: #f1f1f1;
+}
+.dark-mode button {
+    background-color: #f1f1f1;
+    color: #222;
+}
+.dark-mode .fa {
+    color: #f1f1f1;
+}
