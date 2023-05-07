@@ -51,3 +51,11 @@ function checker(input){
     document.getElementById("computer_score").innerHTML = computer_score;
     document.getElementById("user_score").innerHTML = user_score;
 }
+
+
+const toggleBtn = document.getElementById('toggle-btn');
+const body = document.querySelector('body');
+
+toggleBtn.addEventListener('click', () => {
+	body.classList.toggle('dark-mode');
+});

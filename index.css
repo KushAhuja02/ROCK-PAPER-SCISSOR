@@ -79,3 +79,14 @@ body {
 span {
     font-weight: 600;
 }
+
+
+body {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.dark-mode {
+	background-color: #000000;
+	color: #FFFFFF;
+}
